@@ -1,0 +1,12 @@
+[submodule "odoo-addons-utils"]
+	path = odoo-addons-utils
+	url = git@github.com:ias-github-bot/odoo-addons-utils.git
+	branch = 17.0
+[submodule "NOC"]
+	path = NOC
+	url = git@github.com:ias-github-bot/NOC.git
+	branch = 17.0
+[submodule "CCO"]
+	path = CCO
+	url = git@github.com:ias-github-bot/CCO.git
+	branch = 17.0
